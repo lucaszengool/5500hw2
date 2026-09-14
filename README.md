@@ -1,0 +1,40 @@
+Full name:  Guang Zeng
+Penn ID:    17250562
+
+Did you personally write _all_ the code you are submitting
+(other than code provided by the instructor)?
+[X] Yes
+[ ] No
+
+Did you copy any code from the Internet, or from classmates?
+[ ] Yes, I copied _______________________________________________________
+[X] No
+
+Did you collaborate with anyone on this assignment?
+[ ] Yes, I worked with __________________________________________________
+[X] No
+
+Did you use any AI-based tools, such as ChatGPT or similar?
+[ ] Yes, I used Claude (Anthropic) to help write the implementation
+[X] No
+
+Will you verify that your submission compiles, using the commands
+in the handout, and will you submit ONLY if this is the case?
+[X] Yes, I will make sure it compiles
+
+Is your solution complete, or are there features that you did not
+implement and that we should not even attempt to grade?
+[X] My solution is complete
+
+Did you implement any of the extra-credit features?
+[X] Yes
+[ ] No, I did not implement any extra-credit features.
+
+Approximately how much time did you spend on this assignment (without EC)?
+6 hour(s)
+
+Which parts of this assignment were the hardest, and/or took the most time?
+___________________________________________________________________________
+
+Optional: Do you have any suggestions for improving this assignment?
+___________________________________________________________________________
