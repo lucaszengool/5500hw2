@@ -15,7 +15,7 @@ Did you collaborate with anyone on this assignment?
 [X] No
 
 Did you use any AI-based tools, such as ChatGPT or similar?
-[ ] Yes, I used Claude (Anthropic) to help write the implementation
+[ ] Yes, I used__________________________________________________________
 [X] No
 
 Will you verify that your submission compiles, using the commands
