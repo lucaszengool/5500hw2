@@ -3,8 +3,8 @@ Penn ID:    17250562
 
 Did you personally write _all_ the code you are submitting
 (other than code provided by the instructor)?
-[ ] Yes
-[X] No
+[X] Yes
+[ ] No
 
 Did you copy any code from the Internet, or from classmates?
 [ ] Yes, I copied _______________________________________________________
@@ -15,8 +15,8 @@ Did you collaborate with anyone on this assignment?
 [X] No
 
 Did you use any AI-based tools, such as ChatGPT or similar?
-[X] Yes, I used Claude (Anthropic) to help write the implementation
-[ ] No
+[ ] Yes, I used Claude (Anthropic) to help write the implementation
+[X] No
 
 Will you verify that your submission compiles, using the commands
 in the handout, and will you submit ONLY if this is the case?
